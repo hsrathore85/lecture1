@@ -107,7 +107,14 @@ for i in range(1, 11):
     if i == 10:
         break
 
-
+# The enforcement of indentation in Python makes the code look neat and clean.
+# This results in Python programs that look similar and consistent.
+#
+# Indentation can be ignored in line continuation, but it's always a good idea to indent.
+# It makes the code more readable.
+# For example:
+if True:
+    print("HELLO")
 
 
 
